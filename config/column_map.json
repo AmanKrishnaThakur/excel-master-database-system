@@ -1,0 +1,12 @@
+{
+  "_comment": "Maps raw vendor column names to canonical internal column names.",
+  "sku": ["sku", "item_sku", "product_sku", "part_number", "part_no", "partno", "item_no", "item_number", "article_no", "article_number", "product_id", "prod_id", "pid", "code", "item_code", "ref_no"],
+  "product_name": ["product_name", "name", "item_name", "description", "product_description", "part_name", "part_desc", "item_desc", "title", "product_title", "prod_name", "item", "article_name"],
+  "category": ["category", "cat", "product_category", "item_category", "type", "product_type", "item_type", "group", "product_group", "dept", "department", "division", "family"],
+  "unit_of_measure": ["unit_of_measure", "unit", "uom", "units", "sell_unit", "selling_unit", "pack_unit", "measure", "unit_type", "qty_unit"],
+  "cost_price": ["cost_price", "cost", "unit_cost", "purchase_price", "buy_price", "buying_price", "net_price", "wholesale_price", "supplier_price", "vendor_price", "purchase_cost", "cost_usd"],
+  "selling_price": ["selling_price", "price", "retail_price", "sale_price", "list_price", "msrp", "rrp", "customer_price", "sell_price", "unit_price", "market_price", "price_usd"],
+  "stock_qty": ["stock_qty", "qty", "quantity", "stock", "on_hand", "inventory", "stock_on_hand", "qty_on_hand", "available_qty", "available", "inv_qty", "units_on_hand", "qty_available"],
+  "status": ["status", "product_status", "item_status", "active", "availability", "availability_status", "state", "product_state"],
+  "vendor_name": ["vendor_name", "vendor", "supplier", "supplier_name", "manufacturer", "brand", "distributor", "source", "company", "vendor_company"]
+}

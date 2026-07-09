@@ -1,0 +1,12 @@
+{
+  "_comment": "Maps raw/messy unit values to canonical unit_of_measure values.",
+  "EA": ["ea", "each", "1", "unit", "units", "pc", "pcs", "piece", "pieces", "single", "nos", "no", "nr", "num"],
+  "BOX": ["box", "boxes", "bx", "bxs", "carton", "cartons", "ctn", "case", "cases"],
+  "PACK": ["pack", "packs", "pk", "pks", "packet", "packets", "pkg", "pkgs", "package", "packages"],
+  "ROLL": ["roll", "rolls", "rl", "rls", "spool", "spools"],
+  "PAIR": ["pair", "pairs", "pr", "set", "sets"],
+  "KG": ["kg", "kgs", "kilogram", "kilograms", "kilo", "kilos"],
+  "L": ["l", "ltr", "litre", "litres", "liter", "liters"],
+  "M": ["m", "meter", "meters", "metre", "metres"],
+  "KIT": ["kit", "kits", "assembly", "assemblies", "assy"]
+}

@@ -1,0 +1,15 @@
+{
+  "_comment": "Maps raw/messy category values to canonical category names.",
+  "Fasteners": ["fastener", "fasteners", "fastener & hardware", "fasteners & hardware", "hardware fasteners", "bolts & nuts", "nuts & bolts", "screw & bolts", "screws bolts", "fixings", "fixings & fasteners", "fastenings", "bolts, nuts & screws"],
+  "Bearings": ["bearing", "bearings", "ball bearing", "ball bearings", "roller bearing", "roller bearings", "precision bearings", "bearing components", "bearing & seals"],
+  "Seals & Gaskets": ["seal", "seals", "gasket", "gaskets", "seals & gaskets", "gaskets & seals", "o-ring", "o-rings", "orings", "sealing", "sealing components", "seal components"],
+  "Electrical Components": ["electrical", "electrical component", "electrical components", "electric", "electronics", "electronic components", "elec components", "elec", "wiring", "wiring & electrical"],
+  "Hydraulics": ["hydraulic", "hydraulics", "hydraulic component", "hydraulic components", "hydraulic parts", "hydro components", "fluid power"],
+  "Pneumatics": ["pneumatic", "pneumatics", "pneumatic component", "pneumatic components", "pneumatic parts", "air components", "air fittings"],
+  "Filtration": ["filter", "filters", "filtration", "filtration components", "air filter", "oil filter", "filters & filtration", "filter elements"],
+  "Drive Components": ["drive", "drives", "drive component", "drive components", "drive train", "drivetrain", "transmission", "drive & transmission", "power transmission"],
+  "Lubrication": ["lubricant", "lubricants", "lubrication", "oil", "grease", "lubricant products", "lube", "lube products", "lubrication products"],
+  "Tools & Accessories": ["tool", "tools", "tools & accessories", "accessories", "hand tools", "tooling", "workshop tools", "equipment"],
+  "Couplings & Fittings": ["coupling", "couplings", "fitting", "fittings", "couplings & fittings", "hose fittings", "pipe fittings", "connectors", "connections"],
+  "Structural Parts": ["structural", "structural parts", "metal parts", "fabrication", "steel parts", "aluminum parts", "machined parts", "precision parts"]
+}
