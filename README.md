@@ -157,14 +157,6 @@ Start-Process "data\processed\nexa_parts_master_database.xlsx"
 
 ---
 
-## 🖼 Screenshots
-
-See the [`screenshots/README.md`](screenshots/README.md) for capture instructions.
-
-Add your screenshots to the `screenshots/` directory and link them here.
-
----
-
 ## 💼 Skills Demonstrated
 
 - **Python automation** - end-to-end ETL pipeline without manual steps
